@@ -1,0 +1,30 @@
+*{
+margin-left: auto;
+margin-top: auto;
+text-align: center;
+list-style-position: inside
+}
+
+ol{
+margin-left: auto;
+margin-top: auto;
+list-style-position: inside;
+text-align: center;
+
+}
+
+.salam1{
+  color:red
+}
+.salam2{
+color:blue
+}
+.salam3{
+color:darkmagenta
+}
+.salam4{
+    color:darkred
+}
+.salam5{
+    color:mediumvioletred
+}
